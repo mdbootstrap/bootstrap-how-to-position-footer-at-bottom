@@ -1,0 +1,29 @@
+{
+  "name": "@mdbootstrap/bootstrap-how-to-position-footer-at-bottom",
+  "version": "1.0.1",
+  "description": "In order for this element position at the bottom of the page, you have to add `fixed-bottom` to the class `footer`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-how-to-position-footer-at-bottom.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap 5",
+    "footer at bottom",
+    "position",
+    "footer",
+    "bottom",
+    "css",
+    "html"
+  ],
+  "author": "Igor Przybysz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-how-to-position-footer-at-bottom/issues"
+  },
+  "homepage": "https://mdbootstrap.com/how-to/bootstrap/footer-at-bottom/"
+}
